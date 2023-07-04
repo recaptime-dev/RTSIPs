@@ -1,0 +1,5 @@
+site_name: Recap Time Squad Improvement Proposals
+site_url: https://rfc.recaptime.eu.org
+
+theme:
+  name: material

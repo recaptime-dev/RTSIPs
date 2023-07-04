@@ -25,7 +25,7 @@ This RFC process is inspired by the following communities and their RFC process,
 
 * [the fediverse community](https://activitypub.rocks) and [the Fediverse Enchancement Proposal](https://codeberg.org/fediverse/fep),
 * [the Ethereum community](https://ethereum.org) and its [Ethereum Improvement Proposals](https://eips.ethereum.org/),
-* and also [the Matrix spec](https://spec.matrix.org/latest/), although our ActivityPub+Matrix implementation uses v1.3 of the Matrix
+* and also [the Matrix spec](https://spec.matrix.org/latest/), although our ActivityPub+Matrix implementation uses v1.3+ of the Matrix
 spec as of writing.
 
 ## Editors
