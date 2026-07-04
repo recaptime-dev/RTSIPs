@@ -1,0 +1,16 @@
+{
+    "name": "@recaptime-dev/rtsips",
+    "version": "1.0.0",
+    "description": "",
+    "keywords": [],
+    "author": "",
+    "license": "CC0-1.0",
+    "devEngines": {
+        "packageManager": {
+            "name": "pnpm",
+            "version": "^11.5.2",
+            "onFail": "download"
+        }
+    },
+    "type": "module"
+}
